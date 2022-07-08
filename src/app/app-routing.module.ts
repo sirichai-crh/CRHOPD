@@ -5,11 +5,11 @@ import { RouterModule, Routes } from '@angular/router';
 const routes: Routes = [
   {
     path: "",
-    redirectTo: "mainpag",
+    redirectTo: "mainpage",
     pathMatch: "full"
   },
   {
-    path: 'mainpag',
+    path: 'mainpage',
     component: MainpagesComponent
   }
 ];
