@@ -12,4 +12,9 @@ export class MainpagesComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  OpenWindow() {
+
+  }
+
+
 }

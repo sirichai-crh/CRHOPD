@@ -11,6 +11,19 @@ body{
 	font-family: 'BaiJamjuree-Medium', sans-serif !important;	
 }
 
+.warning_txt {
+    color: red;
+}
+
+.patientName {
+    color:darkblue;
+    font-size: 1.2rem;    
+}
+
+.patientInfor {
+    color:blue;  
+}
+
 .card-user .author {
     text-align: center;
     text-transform: none;

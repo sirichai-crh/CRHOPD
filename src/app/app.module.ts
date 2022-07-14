@@ -18,7 +18,8 @@ import { MainpagesComponent } from './pages/mainpages/mainpages.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgbModule
+    NgbModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
