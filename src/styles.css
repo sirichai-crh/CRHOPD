@@ -1,4 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'BaiJamjuree-Medium'; 
+    src: url('assets/fonts/BaiJamjuree-Medium.eot?#iefix') format('embedded-opentype'),  url('assets/fonts/BaiJamjuree-Medium.woff') format('woff'),
+     url('assets/fonts/BaiJamjuree-Medium.ttf')  format('truetype'), url('assets/fonts/BaiJamjuree-Medium.svg#BaiJamjuree-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	font-family: 'BaiJamjuree-Medium', sans-serif !important;	
+}
+
 .card-user .author {
     text-align: center;
     text-transform: none;
